@@ -4,7 +4,6 @@
 
 <b>Input</b>:
 
-
    <b>p</b>, principal amount
    <b>t</b>, time period in years
    <b>r</b>, annual rate of interest
